@@ -46,7 +46,13 @@ return packer.startup(function(use)
   use "nvim-lua/plenary.nvim" -- Useful lua functions used ny lots of plugins
   use "lunarvim/colorschemes"
   use "andersevenrud/nordic.nvim"
-  use "numToStr/Comment.nvim" 
+  use "numToStr/Comment.nvim"
+  use 'kyazdani42/nvim-web-devicons'
+  use 'kyazdani42/nvim-tree.lua'
+  use "akinsho/bufferline.nvim"
+  use "moll/vim-bbye"
+  use "akinsho/toggleterm.nvim"
+
   -- cmp plugins
   use "hrsh7th/nvim-cmp" -- The completion plugin
   use "hrsh7th/cmp-buffer" -- buffer completions
