@@ -1,6 +1,32 @@
 
 local servers = {
 	"sumneko_lua",
+  "awk_ls",
+  "ansiblels",
+  "bashls",
+  "clangd",
+  "csharp_ls",
+  "cmake",
+  "cssls",
+  "denols",
+  "dockerls",
+  "eslint",
+  "gopls",
+  "groovyls",
+  "html",
+  "hls",
+  "jsonls",
+  "jdtls",
+  "tsserver",
+  "zk",
+  "powershell_es",
+  "pyright",
+  "rust_analyzer",
+  "sqlls",
+  "svelte",
+  "taplo",
+  "tailwindcss",
+  "yamlls"
 }
 
 local settings = {
